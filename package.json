@@ -10,12 +10,16 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^6.19.4",
+    "@monaco-editor/react": "^4.7.0",
     "convex": "^1.24.1",
+    "framer-motion": "^12.12.1",
     "lucide-react": "^0.511.0",
+    "monaco-editor": "^0.52.2",
     "next": "15.3.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "svix": "^1.65.0"
+    "svix": "^1.65.0",
+    "zustand": "^5.0.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
